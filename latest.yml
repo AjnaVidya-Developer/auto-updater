@@ -1,0 +1,8 @@
+version: 1.6.8
+files:
+  - url: ADH-PC-Setup-1.6.8.exe
+    sha512: nQzLLTSDHiwbMM9kpYSpz3xhZNLaf2SAuqHEeDxPcfjkk8pljcDNH0F3LMIbAI0u1EH2Eikc/uD0M/eAadg2HQ==
+    size: 90659726
+path: ADH-PC-Setup-1.6.8.exe
+sha512: nQzLLTSDHiwbMM9kpYSpz3xhZNLaf2SAuqHEeDxPcfjkk8pljcDNH0F3LMIbAI0u1EH2Eikc/uD0M/eAadg2HQ==
+releaseDate: '2023-11-09T09:25:45.057Z'
